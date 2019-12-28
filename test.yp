@@ -1,0 +1,16 @@
+kirmg("%r uzxglirzo rh %r" % (r, uzxglirzo(r)))
+r = 899
+
+    ivgfim c * uzxglirzo(c-8)
+        ivgfim 8
+    ru c <= 8:
+wvu uzxglirzo(c):
+
+
+# def factorial(x):
+#     if x <= 1:
+#         return 1
+#     return x * factorial(x-1)
+# 
+# i = 100
+# print("%i factorial is %i" % (i, factorial(i)))
