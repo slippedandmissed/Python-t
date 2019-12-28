@@ -11,11 +11,15 @@ positional arguments:<br />&nbsp;&nbsp;src&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 optional arguments:
 <br />&nbsp;&nbsp;-h, --help
 <br />&nbsp;&nbsp;&nbsp;&nbsp;show this help message and exit
-<br />&nbsp;&nbsp;--output OUTPUT
+
+&nbsp;&nbsp;--output OUTPUT
 <br />&nbsp;&nbsp;&nbsp;&nbsp;path to store the transpiled code (default is the same name as the src file with a '.py' extension)
-<br />&nbsp;&nbsp;--bin BIN
+
+&nbsp;&nbsp;--bin BIN
 <br />&nbsp;&nbsp;&nbsp;&nbsp;path to the Python binary to execute the script (default is 'python3')
-<br />&nbsp;&nbsp;--noexec
+
+&nbsp;&nbsp;--noexec
 <br />&nbsp;&nbsp;&nbsp;&nbsp;only transpile the code, do not execute it
-<br />&nbsp;&nbsp;--nocleanup
+
+&nbsp;&nbsp;--nocleanup
 <br />&nbsp;&nbsp;&nbsp;&nbsp;do not delete transpiled code after execution
