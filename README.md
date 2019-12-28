@@ -4,7 +4,7 @@ An esoteric programming language based on Python
 Start with normal Python code. Each letter then gets replaced with its inverse (e.g. "a" is replaced with "z", "C" is replaced with "X", "8" is replaced with "1"). Any character which is not alphanumeric stays unchanged. Then the order of the lines is reversed.
 
 ## Usage
-usage: pythont.py [-h] [--output OUTPUT] [--bin BIN] [--noexec] [--nocleanup]<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;src [args [args ...]]
+usage: pythont.py [-h] [--output OUTPUT] [--bin BIN] [--noexec] [--nocleanup] src [args [args ...]]
 
 positional arguments:<br />&nbsp;&nbsp;src&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;path to the script you want to transpile.<br />&nbsp;&nbsp;args&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arguments to pass to the transpiled script upon execution
 
